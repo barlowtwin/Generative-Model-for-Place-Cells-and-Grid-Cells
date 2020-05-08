@@ -1,0 +1,17 @@
+ Understanding the GTMSM program
+
+
+
+-- utils/ torch_utils.py
+
+initialize weights
+plot images
+chunk campling
+Show heat map
+Chose cpu or gpu
+
+-- roam.py
+
+
+
+
