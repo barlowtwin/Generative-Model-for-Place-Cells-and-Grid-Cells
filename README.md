@@ -1,4 +1,4 @@
-# Generative-Model-for-Place-Cells-and-Grid-Cells
+# Generative-Model-for-Visualizing-Place-Cells-and-Grid-Cells
 
 
 
