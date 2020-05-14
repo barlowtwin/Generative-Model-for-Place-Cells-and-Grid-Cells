@@ -16,4 +16,11 @@ An attempt towards visualizing Grid Cells using the 'Generative Temporal Memory 
 
 3. config.py 
 
-- For command line arguments such as epochs, batch-size, gradient-clipping, log-interval, save-interval, cuda and seed.
+For command line arguments such as : 
+- epochs 
+- batch-size 
+- gradient-clipping
+- log-interval 
+- save-interval 
+- cuda
+- seed
