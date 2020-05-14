@@ -113,7 +113,7 @@ def move(batch_size, num_times_agent_moves):
         
         actions_one_hot[batch_size_index,action[batch_size_index], np.array(range(num_times_agent_moves-1))] = 1
         
-    #actions_one_hot = torch.from_numpy(actions_one_hot) # converting to a tensor as mathematical operations are easy with tensors
+    actions_one_hot = torch.from_numpy(actions_one_hot) # converting to a tensor as mathematical operations are easy with tensors
     
     return actions_one_hot, position, action
         
@@ -122,35 +122,6 @@ def move(batch_size, num_times_agent_moves):
                         
                         
                             
-                    
-
-
-# In[19]:
-
-
-a,b,c = move(3,50)
-
-
-# In[20]:
-
-
-a.shape
-
-
-# In[21]:
-
-
-b.shape
-
-
-# In[22]:
-
-
-c.shape
-
-
-# In[ ]:
-
-
+        
 
 
