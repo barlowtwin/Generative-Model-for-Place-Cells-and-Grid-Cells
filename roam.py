@@ -115,13 +115,4 @@ def move(batch_size, num_times_agent_moves):
         
     actions_one_hot = torch.from_numpy(actions_one_hot) # converting to a tensor as mathematical operations are easy with tensors
     
-    return actions_one_hot, position, action
-        
-                        
-                        
-                        
-                        
-                            
-        
-
-
+    return actions_one_hot, position, action  
