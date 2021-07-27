@@ -2,7 +2,7 @@
 
 
 
-An attempt towards visualizing Grid Cells using the 'Generative Temporal Memory with Spatial Memory for Partially Observed Environements'. 
+An attempt towards visualizing Grid Cells using the [Generative Temporal Memory with Spatial Memory for Partially Observed Environement](https://marcofraccaro.github.io/download/publications/generative-temporal-models-with-spatial-memory_icml2018.pdf). 
 
 
 1. To create the dataset
